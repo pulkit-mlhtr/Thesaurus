@@ -1,0 +1,13 @@
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\bin\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.deps.json
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\bin\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.dll
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\bin\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.pdb
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\bin\Debug\netcoreapp3.1\Thesaurus.Api.Repository.dll
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\bin\Debug\netcoreapp3.1\Thesaurus.Api.Repository.pdb
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\obj\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.csproj.AssemblyReference.cache
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\obj\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\obj\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.AssemblyInfoInputs.cache
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\obj\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.AssemblyInfo.cs
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\obj\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.csproj.CoreCompileInputs.cache
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\obj\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.csproj.CopyComplete
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\obj\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.dll
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Repository.Test\obj\Debug\netcoreapp3.1\Thesaurus.Api.Repository.Test.pdb

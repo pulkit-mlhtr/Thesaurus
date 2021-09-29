@@ -1,0 +1,13 @@
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\bin\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.deps.json
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\bin\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.dll
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\bin\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.pdb
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\bin\Debug\netcoreapp3.1\Thesaurus.Api.Repository.dll
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\bin\Debug\netcoreapp3.1\Thesaurus.Api.Repository.pdb
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\obj\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.csproj.AssemblyReference.cache
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\obj\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\obj\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.AssemblyInfoInputs.cache
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\obj\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.AssemblyInfo.cs
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\obj\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\obj\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.csproj.CopyComplete
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\obj\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.dll
+C:\Users\pulki\OneDrive\Desktop\Beijer\Thesaurus.API\Thesaurus.Api.Business.Model\obj\Debug\netcoreapp3.1\Thesaurus.Api.Business.Model.pdb
